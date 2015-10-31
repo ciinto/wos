@@ -39,6 +39,7 @@
         case '/':
         case '/index.html':
         case '/client.js':
+        case '/jquery.js':
         case '/style.css':
             if (path === '/') {
                 path = '/index.html';
