@@ -2,7 +2,7 @@
     "name": "snake-canvas",
     "version": "0.0.1",
     "scripts":{
-        "start": "node server.js",
+        "start": "node server.js"
     },
     "dependencies": {
         "coffee-script": ">= 1.0.1",
